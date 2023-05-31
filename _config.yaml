@@ -1,13 +1,15 @@
 # site properties and page defaults
-title: airlabmonash
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: FoodCODE
+subtitle: A Monash Addiction & Impulsivity research study
+description: <ul>We are a neuroscience research group with the Turner Institute for Brain and Mental Health at Monash University, led by Professor Antonio Verdejo-Garcia.</ul>
+<ul>Our mission is to generate neuroscience knowledge and create evidence-based tools that help improve the quality of life for people with addictive & eating/weight disorders. </ul>
+<ul>We envisage a future where people with a living experience of addictive and eating/weight disorders feel empowered to make choices that are fully aligned with their well-being goals.</ul>
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@airlabmonash.com
+  email: foodcode@monash.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: airlabmonash
